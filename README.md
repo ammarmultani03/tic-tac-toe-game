@@ -9,5 +9,5 @@ A classic Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. Enj
 - **Dynamic Game Logic**: JavaScript-powered game engine that detects wins, losses, and draws.
 
 ## 🖼️ Demo
-Check out the live demo here:   
+Check out the live demo here:   https://ammarmultani03.github.io/tic-tac-toe-game/
 
